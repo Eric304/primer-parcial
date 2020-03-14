@@ -1,0 +1,145 @@
+#margen{
+	background: yellow;
+	margin-left: 35%;
+	margin-right: 45%;
+	padding: 10px;
+	border: 1px solid black;
+	border-radius: 10px;
+}
+
+body{
+	padding: 10px;
+}
+
+div li{
+	display: inline-block;
+}
+
+h2{
+	text-align: center;
+}
+#encabezado{
+	background: white;
+	margin: 10px;
+	margin-top: 15px;
+	border-radius: 10px;
+	padding: 5px;
+	display: inline-block;
+
+}
+
+h5{
+	color:gray;
+}
+
+#boton{
+	width: 120px;
+	border: 1px solid black;
+	border-radius: 10px;
+	font-size: 20px;
+	padding: 7px;
+}
+
+#pesos{
+	margin-left: 50px;
+	text-align: right;
+}
+
+header li{
+	
+	display: inline-block;
+
+}
+nav h3{
+	display: inline-block;
+	font-size: 10px;
+}
+
+#navDer{
+	padding: 10px;
+	margin-left: 150px;
+	text-align: right;
+
+}
+
+
+nav li{
+	background: white;
+	width: 40px;
+	height: 40px;
+	border-radius: 10px;
+	display: inline-block;
+	text-align: center;
+	justify-content: center;
+	align-items: center;
+}
+
+
+#fondoNum{
+	background: red;
+	color: white;
+	
+}
+
+section h3{
+	font-size: 10px;
+}
+#dos{
+	display: inline-block;
+}
+
+#rojo{
+
+	background: red;
+	margin: 10px;
+	color: white;
+	font-size: 20px;
+	width: 100px;
+	height: 100px;
+	border-radius: 10px;
+	padding-top: 70px;
+	text-align: center; 
+}
+
+#letras{
+	font-size: 10px;
+}
+
+#letras1{
+	color: black;
+	font-size: 10px;
+}
+
+#blanco{
+	
+	background: white;
+	margin: 10px;
+	color: black;
+	font-size: 20px;
+	width: 130px;
+	height: 100px;
+	border-radius: 10px;
+	padding-top: 70px;
+	text-align: center; 
+}
+
+#pie{
+	background: red;
+	margin: 20px;
+	margin-bottom: 50px;
+	color: white;
+	font-size: 20px;
+	width: 230px;
+	height: 50px;
+	border-radius: 10px;
+	text-align: center; 
+	padding-top: 20px;
+}
+
+
+
+
+
+
+
+
